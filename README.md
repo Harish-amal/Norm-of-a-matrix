@@ -57,8 +57,8 @@ print("{:.2f}".format(ans))
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>
-<br>
+<img width="1222" height="798" alt="image" src="https://github.com/user-attachments/assets/22a8578a-efb3-473e-886a-3122f512b25f" />
+
 <br>
 
 ### 2-Norm of a Matrix
