@@ -62,13 +62,13 @@ print("{:.2f}".format(ans))
 <br>
 
 ### 2-Norm of a Matrix
-<br>
-<br>
+<img width="1220" height="836" alt="image" src="https://github.com/user-attachments/assets/f5a3ceac-25d8-480d-b882-645ad7b0d191" />
+
 <br>
 
 ### Infinity Norm of a Matrix
-<br>
-<br>
+<img width="1222" height="801" alt="image" src="https://github.com/user-attachments/assets/cf0edee9-208c-46bb-b6d9-407d8987c368" />
+
 <br>
 
 ## Result
